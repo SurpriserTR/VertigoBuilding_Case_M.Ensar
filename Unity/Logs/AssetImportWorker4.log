@@ -1,0 +1,292 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.5f1 (9674261d40ee) revision 9860134'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 65446 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/GitHub/LisbonBuildingDeneme
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+49798
+Successfully changed project path to: D:/GitHub/LisbonBuildingDeneme
+D:/GitHub/LisbonBuildingDeneme
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8352] Host "[IP] 192.168.1.47 [Port] 0 [Flags] 2 [Guid] 4226193387 [EditorId] 4226193387 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5HC2SCJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8352] Host "[IP] 192.168.1.47 [Port] 0 [Flags] 2 [Guid] 4226193387 [EditorId] 4226193387 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5HC2SCJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 7.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.5f1 (9674261d40ee)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/LisbonBuildingDeneme/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+d3d12: loaded!
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 2080 Ti (ID=0x1e07)
+    Vendor:          NVIDIA
+    VRAM:            11027 MB
+    App VRAM Budget: 1907 MB
+    Driver:          32.0.15.6603
+d3d12: Profiler is enabled, but stable power state is not. GPU timing errors are expected.
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013107 seconds.
+- Loaded All Assemblies, in  0.337 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 346 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.631 seconds
+Domain Reload Profiling: 966ms
+	BeginReloadAssembly (86ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (137ms)
+		LoadAssemblies (83ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (130ms)
+			TypeCache.Refresh (129ms)
+				TypeCache.ScanAssembly (116ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (631ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (581ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (450ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (86ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GitHub\LisbonBuildingDeneme\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GitHub\LisbonBuildingDeneme\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.827 seconds
+Refreshing native plugins compatible for Editor in 3.71 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+d3d12: upload buffer was full! Waited for COPY queue for 1.124 ms.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.086 seconds
+Domain Reload Profiling: 1912ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (613ms)
+		LoadAssemblies (282ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (390ms)
+			TypeCache.Refresh (352ms)
+				TypeCache.ScanAssembly (340ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1086ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (907ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (85ms)
+			ProcessInitializeOnLoadAttributes (609ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6921 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 116 unused Assets / (3.6 MB). Loaded Objects now: 7399.
+Memory consumption went from 322.3 MB to 318.7 MB.
+Total: 4.995700 ms (FindLiveObjects: 0.592600 ms CreateObjectMapping: 0.204000 ms MarkObjects: 3.442100 ms  DeleteObjects: 0.756000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/BasicRigidBodyPush.cs: 81692452d1a6b6b5ab4a950852e5937c -> 834b632457fae9d11b7ee6ae6006cbf8
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/StarterAssetsInputs.cs: a7e8a1b91929a93d3b5a09196688da9f -> 109cc5d80cf92b9046134880b5edcf1b
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/FirstPersonController.cs: 8b12a276978159c5862f93090c29bfa5 -> a84db48f9c6674dd2c91a1d423e221b3
+  custom:scripting/monoscript/fileName/ThirdPersonController.cs: f0a66fb3e07e7abc99dc53a3859e4fb8 -> a689853034d5fa0ef10dab801796c594
+========================================================================
+Received Import Request.
+  Time since last request: 521975.409517 seconds.
+  path: Assets/_CaseFiles/Textures/FinalbuildingDiffuse.png
+  artifactKey: Guid(df93f3dd169cf2a43bf9af78fb7f1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Textures/FinalbuildingDiffuse.png using Guid(df93f3dd169cf2a43bf9af78fb7f1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) d3d12: upload buffer was full! Waited for COPY queue for 1.312 ms.
+ -> (artifact id: 'f57739beefe957b329e0a876f119e1d0') in 0.042995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/_CaseFiles/Textures/FinalPropDiffuse.png
+  artifactKey: Guid(e29fb596dcb2bda40b67e47b6c1ba066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Textures/FinalPropDiffuse.png using Guid(e29fb596dcb2bda40b67e47b6c1ba066) Importer(815301076,1909f56bfc062723c751e8b465ee728b) d3d12: upload buffer was full! Waited for COPY queue for 1.387 ms.
+ -> (artifact id: 'c13dcdbb5d4c1c3d392c49bcd7d184eb') in 0.017801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/_CaseFiles/Textures/FinalBuildingRoughness.png
+  artifactKey: Guid(ab5db17d0c7754d458093a252d948446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Textures/FinalBuildingRoughness.png using Guid(ab5db17d0c7754d458093a252d948446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb1d04c190213bf62abb4deeef53602') in 0.009212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 59.120468 seconds.
+  path: Assets/_CaseFiles/Textures/FinalBuildingDisplacement.png
+  artifactKey: Guid(d7622ce0597109945b008f0f901ab79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Textures/FinalBuildingDisplacement.png using Guid(d7622ce0597109945b008f0f901ab79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) d3d12: upload buffer was full! Waited for COPY queue for 1.325 ms.
+ -> (artifact id: 'c5b86190b65b5f4fc44f9fcbaad5de18') in 0.014950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.357161 seconds.
+  path: Assets/_CaseFiles/Textures/FinalPropDisplacement.png
+  artifactKey: Guid(f25142c1519577d4aad21fa44dfcba52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Textures/FinalPropDisplacement.png using Guid(f25142c1519577d4aad21fa44dfcba52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) d3d12: upload buffer was full! Waited for COPY queue for 1.323 ms.
+ -> (artifact id: 'a24021b95d8a241d341a807ccc27c22e') in 0.014309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 51.615353 seconds.
+  path: Assets/_CaseFiles/MatBuilding.mat
+  artifactKey: Guid(942d5dc2b42c83d4cb01b7ba8f8eb462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/MatBuilding.mat using Guid(942d5dc2b42c83d4cb01b7ba8f8eb462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e9348b42bbebfec43c59bf27abf557') in 0.001644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.109894 seconds.
+  path: Assets/_CaseFiles/MatProps.mat
+  artifactKey: Guid(abdf4e8ac94224e45a5c58b80f79a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/MatProps.mat using Guid(abdf4e8ac94224e45a5c58b80f79a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f47d91b9a77441340058a7d2847478') in 0.001044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 42.335682 seconds.
+  path: Assets/_CaseFiles/Case Muhammed E. Yurteri.fbx
+  artifactKey: Guid(ceb71a849065edf4f98c16b8447a7f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Case Muhammed E. Yurteri.fbx using Guid(ceb71a849065edf4f98c16b8447a7f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e9f78ebce1bca80ff27f2e69c0a955') in 0.005723 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 15.085382 seconds.
+  path: Assets/_CaseFiles/Case Muhammed E. Yurteri.fbx
+  artifactKey: Guid(ceb71a849065edf4f98c16b8447a7f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/Case Muhammed E. Yurteri.fbx using Guid(ceb71a849065edf4f98c16b8447a7f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44331fe6cbed6d5995b30c09bd09ede0') in 0.003900 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 64.573461 seconds.
+  path: Assets/_CaseFiles/MatProps.mat
+  artifactKey: Guid(abdf4e8ac94224e45a5c58b80f79a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/MatProps.mat using Guid(abdf4e8ac94224e45a5c58b80f79a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f8e85418d72c039d31fc4d1b5fec82') in 0.001095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 40.619181 seconds.
+  path: Assets/_CaseFiles/MatBuilding.mat
+  artifactKey: Guid(942d5dc2b42c83d4cb01b7ba8f8eb462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/MatBuilding.mat using Guid(942d5dc2b42c83d4cb01b7ba8f8eb462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f4136613ad677bc90372fa1dce9467') in 0.001349 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 212.677017 seconds.
+  path: Assets/_CaseFiles/MatBuilding.mat
+  artifactKey: Guid(942d5dc2b42c83d4cb01b7ba8f8eb462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_CaseFiles/MatBuilding.mat using Guid(942d5dc2b42c83d4cb01b7ba8f8eb462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad719bff93476ff033c4d3f5cf177f33') in 0.001251 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
